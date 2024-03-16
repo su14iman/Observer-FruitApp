@@ -1,0 +1,26 @@
+{
+  "name": "observer-fruitapp",
+  "version": "1.0.0",
+  "description": "Dieses Projekt implementiert das Observer-Designmuster in TypeScript. Es besteht aus zwei Hauptteilen: Observables und Observers.",
+  "keywords": [
+    "Observer","Designmuster","TypeScript","Observable","Observer","sample","example", "onePiece", "fruitApp"
+  ],
+  "type": "module",
+  "module": "src/index.ts",
+  "author": "Sulaiman Sulaiman <s.su14iman@gmail.com>",
+  "homepage": "https://github.com/su14iman/observer-fruitapp",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/su14iman/observer-fruitapp.git"
+  },
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bun --watch run src/index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
