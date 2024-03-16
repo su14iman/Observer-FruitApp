@@ -8,10 +8,10 @@
   "type": "module",
   "module": "src/index.ts",
   "author": "Sulaiman Sulaiman <s.su14iman@gmail.com>",
-  "homepage": "https://github.com/su14iman/observer-fruitapp",
+  "homepage": "https://github.com/su14iman/Observer-FruitApp",
   "repository": {
     "type": "git",
-    "url": "git://github.com/su14iman/observer-fruitapp.git"
+    "url": "git://github.com/su14iman/Observer-FruitApp.git"
   },
   "scripts": {
     "start": "bun run src/index.ts",
